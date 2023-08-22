@@ -29,7 +29,7 @@
 
 
 body {
-    background-image: linear-gradient(to top, rgba(6, 193, 240, 0.356),rgba(255, 166, 0, 0.493) );
+    background-image: linear-gradient(to top, rgba(6, 193, 240, 0.356),#a5c639cc,rgba(64, 241, 5, 0.356) );
     /*background-color: var(--cor01)*/
     font-family: var(--fonte-padrao);
 }
